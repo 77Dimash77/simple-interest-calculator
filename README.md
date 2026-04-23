@@ -3,5 +3,5 @@
 This project calculates simple interest using a bash script.
 
 ## Usage
-Run the script:
+Run the  script:
 bash simple-interest.sh
